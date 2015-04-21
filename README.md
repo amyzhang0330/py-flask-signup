@@ -2,6 +2,7 @@
 # py-flask-signup
 This Python sample application uses the [Flask](http://flask.pocoo.org/) framework and [Bootstrap](http://getbootstrap.com/) to build a simple, scalable customer signup form that is deployed via [AWS Elastic Beanstalk](http://aws.amazon.com/elasticbeanstalk/) or [AWS CloudFormation](http://aws.amazon.com/cloudformation/). The application stores data in [Amazon RDS MySQL](http://aws.amazon.com/rds/), or optionally can use [Amazon DynamoDB](http://aws.amazon.com/dynamodb/), and publishes notifications to the [Amazon Simple Notification Service (SNS)](http://aws.amazon.com/sns/) when a customer fills out the form.
 
+Modified by Amy Zhang for learning purpose. 
 ## Features
 
 ### Themes
@@ -10,6 +11,7 @@ The code includes several Bootstrap themes from [bootswatch.com](http://bootswat
 ![](misc/theme-flow.png)
 
 Installed themes include:
+
 
 * [amelia](http://bootswatch.com/amelia)
 * [default](http://bootswatch.com/default)
